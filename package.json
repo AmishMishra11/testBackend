@@ -2,12 +2,12 @@
   "name": "funime-backend",
   "version": "1.0.0",
   "description": "Backend for funime media",
-  "main": "api/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --experimental-modules --es-module-specifier-resolution=node api/index.js",
-    "server": "nodemon --experimental-modules --es-module-specifier-resolution=node api/index.js"
+    "start": "node --experimental-modules --es-module-specifier-resolution=node index.js",
+    "server": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js"
   },
   "repository": {
     "type": "git",
