@@ -1,8 +1,8 @@
-import express from "express";
-import { simpleGerRequest } from "../controllers/getTest";
+// import express from "express";
+// import { simpleGerRequest } from "../controllers/getTest";
 
-const router = express.Router();
+// const router = express.Router();
 
-router.route("/").get(simpleGerRequest);
+// router.route("/").get(simpleGerRequest);
 
-export { router };
+// export { router };

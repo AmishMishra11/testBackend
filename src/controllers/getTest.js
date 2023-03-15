@@ -1,5 +1,5 @@
-const simpleGerRequest = async (req, res) => {
-  res.send("Hello test !");
-};
+// const simpleGerRequest = async (req, res) => {
+//   res.send("Hello test !");
+// };
 
-export { simpleGerRequest };
+// export { simpleGerRequest };
